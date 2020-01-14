@@ -1,4 +1,4 @@
-# DEV
+# DEV teste
 Criar aplicação via Facebook create-react-app  
 Configurar o CDNs:  
 1. Acessar https://getbootstrap.com/ e referenciar o CSS e JS
